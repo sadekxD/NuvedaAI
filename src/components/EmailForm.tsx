@@ -122,12 +122,16 @@ export default function EmailForm() {
             </button>
           </div>
         </div>
+        
       </form>
       {status === "error" && errorMsg && (
         <p className="animate-fade-up font-body text-[0.75rem] font-light text-red-400">
           {errorMsg}
         </p>
       )}
+      <p className="font-body text-xs font-medium text-brand-muted">
+        Get a 25% launch discount code sent straight to your inbox!
+      </p>
       <p className="font-body text-[0.7rem] font-light text-brand-dim">
         No spam. Unsubscribe anytime.
       </p>
