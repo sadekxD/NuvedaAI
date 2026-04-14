@@ -4,7 +4,7 @@ import EmailForm from "@/components/EmailForm";
 
 export default function Home() {
   return (
-    <div className="grain relative flex h-dvh flex-col overflow-hidden bg-brand-darker">
+    <div className="grain relative flex flex-col min-h-screen bg-brand-darker">
       {/* Hero background GIF */}
       <div className="pointer-events-none absolute inset-0 z-0">
         <img
