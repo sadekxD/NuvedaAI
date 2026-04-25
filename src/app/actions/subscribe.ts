@@ -4,7 +4,7 @@ const LOOPS_API_KEY = process.env.LOOPS_API_KEY ?? "";
 
 export async function subscribe(
   email: string
-): Promise<{ success: boolean; error?: string }> {
+): Promise<{ success: boolean; existing?: boolean; error?: string }> {
   const trimmed = email.trim().toLowerCase();
 
   if (!trimmed || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(trimmed)) {
@@ -28,7 +28,7 @@ export async function subscribe(
     const data = await res.json();
 
     if (data.success) return { success: true };
-    if (res.status === 409) return { success: true };
+    if (res.status === 409) return { success: true, existing: true };
     return { success: false, error: "Something went wrong. Please try again." };
   } catch {
     return { success: false, error: "Something went wrong. Please try again." };
