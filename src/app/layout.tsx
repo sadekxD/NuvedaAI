@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Syne, Outfit } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 
 const syne = Syne({
@@ -38,7 +39,14 @@ export default function RootLayout({
       lang="en"
       className={`${syne.variable} ${outfit.variable} h-full`}
     >
-      <body className="min-h-full antialiased">{children}</body>
+      <body className="min-h-full antialiased">
+        {children}
+        <Script
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          strategy="afterInteractive"
+          data-cf-beacon='{"token": "f829275f42f54c91a5233cf8899bf7f3"}'
+        />
+      </body>
     </html>
   );
 }
