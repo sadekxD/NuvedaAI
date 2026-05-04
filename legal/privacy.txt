@@ -1,0 +1,195 @@
+Privacy Policy
+Effective Date: April 20, 2026
+Nuveda AI LLC (“Nuveda AI,” “we,” “us,” or “our”) is committed to protecting your privacy and handling personal information with care, transparency, and respect. This Privacy Policy explains how we collect, use, disclose, store, and otherwise process personal information when you access or use our website, applications, APIs, hosted tools, support channels, and related services (collectively, the “Services”).
+By accessing or using the Services, you acknowledge that your information will be handled in accordance with this Privacy Policy.
+1. Who This Policy Applies To
+This Privacy Policy applies to personal information we collect when you:
+visit our website;
+create an account;
+use our AI tools, applications, or services;
+submit prompts, files, media, or other content;
+receive or interact with generated outputs;
+contact us for support, billing, legal, partnership, or general business matters;
+participate in testing, research, surveys, or promotional activities; or
+otherwise engage with Nuveda AI.
+
+This Privacy Policy does not apply to third-party services, websites, or platforms that operate under their own terms and privacy policies.
+2. Information We Collect
+We may collect the following categories of information.
+Information You Provide Directly
+This may include:
+name;
+company or business name;
+email address;
+phone number;
+billing details;
+mailing address;
+account credentials;
+communications with us;
+survey responses and feedback; and
+any prompts, files, text, images, audio, video, documents, or other content you submit through the Services.
+
+Inputs, Outputs, and Usage Content
+When you use Nuveda AI, we may process:
+prompts and instructions you submit;
+uploaded files and materials;
+generated outputs;
+project, workspace, or account metadata; and
+contextual information associated with your use of the Services.
+
+Payment and Subscription Information
+If you purchase paid Services, we may collect or receive limited billing and transaction information, including:
+subscription status;
+invoice and transaction records;
+payment status; and
+limited payment-related metadata.
+
+Payment processing is generally handled by third-party providers. Nuveda AI does not typically store full payment card numbers directly.
+Automatically Collected Information
+When you use the Services, we may automatically collect certain technical and usage information, such as:
+IP address;
+browser type and version;
+device type;
+operating system;
+referral URLs;
+pages viewed;
+session activity;
+clickstream data;
+diagnostics;
+crash logs; and
+cookie and similar technology data.
+
+Information from Third Parties
+We may also receive information from third parties, including:
+payment processors;
+cloud and infrastructure providers;
+analytics providers;
+authentication providers;
+marketing vendors; and
+integration or business partners.
+
+3. How We Use Personal Information
+We use personal information to operate, protect, and improve Nuveda AI, including to:
+provide, maintain, and support the Services;
+create and manage user accounts;
+process subscriptions and payments;
+authenticate users and protect accounts;
+generate outputs and deliver requested functionality;
+respond to support inquiries and service requests;
+monitor service quality, reliability, and performance;
+detect, investigate, and prevent misuse, fraud, abuse, and security incidents;
+improve features, workflows, and user experience;
+enforce our Terms, policies, and safeguards;
+communicate with you regarding billing, support, updates, and product notices;
+send marketing communications where permitted by law; and
+comply with applicable legal obligations.
+
+4. AI Processing and Third-Party Model Providers
+Nuveda AI may rely on third-party AI model providers, APIs, cloud platforms, and infrastructure partners to deliver some or all aspects of the Services. In order to provide the Services, your prompts, files, inputs, and related content may be processed by trusted service providers acting on our behalf.
+Our general operating posture is as follows:
+we process content to provide and operate the Services;
+we may use content for support, troubleshooting, abuse prevention, security, and service administration;
+we do not use customer content to train Nuveda AI’s own models unless we clearly disclose that practice and obtain any consent required by law; and
+third-party providers may process content as necessary to provide services to us, subject to applicable contracts, data handling terms, and legal requirements.
+AI-generated outputs may not always be accurate, complete, unique, or suitable for a particular purpose. You are responsible for reviewing and evaluating outputs before relying on them.
+5. Ownership of Content and Limited Rights to Process It
+As between you and Nuveda AI, you retain ownership of the content you submit to the Services, subject to the limited rights needed for us to operate the platform.
+You grant Nuveda AI a limited, non-exclusive right to host, store, reproduce, transmit, and process your content solely as necessary to:
+provide the Services;
+generate outputs;
+maintain system functionality;
+support and troubleshoot the platform;
+protect the Services and users from fraud, abuse, and security threats; and
+comply with applicable law.
+
+This limited right does not transfer ownership of your content to Nuveda AI.
+6. Cookies and Similar Technologies
+We may use cookies and similar technologies to:
+keep users signed in;
+remember settings and preferences;
+provide essential site functionality;
+analyze usage and performance;
+improve reliability and experience;
+understand how features are used; and
+help detect fraud, abuse, and unauthorized activity.
+
+You may be able to control cookies through your browser or device settings. Disabling certain cookies may affect the availability or functionality of parts of the Services.
+7. How We Disclose Information
+We may disclose personal information in the following circumstances.
+Service Providers and Vendors
+We may share information with third-party vendors and service providers that support the operation of Nuveda AI, including providers of:
+hosting and cloud infrastructure;
+AI and model services;
+payment processing;
+analytics;
+communications tools;
+customer support systems; and
+security and technical infrastructure.
+
+Business Transactions
+We may disclose information in connection with an actual or proposed merger, acquisition, restructuring, financing, asset sale, bankruptcy, or similar corporate transaction.
+Legal, Security, and Safety Purposes
+We may disclose information where reasonably necessary to:
+comply with law, regulation, legal process, or lawful government request;
+enforce our agreements and policies;
+detect, prevent, or investigate fraud, abuse, or security issues; or
+protect the rights, property, and safety of Nuveda AI, our users, or others.
+
+At Your Direction
+We may disclose information when you request, authorize, or direct us to do so.
+8. Data Retention
+We retain personal information for as long as reasonably necessary for the purposes described in this Privacy Policy, including to:
+provide and maintain the Services;
+manage accounts and subscriptions;
+respond to support and dispute matters;
+enforce our agreements;
+meet legal, tax, accounting, and compliance obligations; and
+protect against fraud, abuse, and security threats.
+
+Retention periods may vary depending on the nature of the information, the reason it was collected, and applicable legal or operational requirements. We may retain aggregated or de-identified information where permitted by law.
+9. Data Security
+Nuveda AI uses reasonable administrative, technical, and organizational safeguards designed to protect personal information. These safeguards may include:
+access controls;
+authentication measures;
+encryption in transit and, where appropriate, at rest;
+internal monitoring and logging;
+vendor oversight; and
+security-focused operational practices.
+
+No method of transmission over the internet or method of storage is completely secure. As a result, we cannot guarantee absolute security.
+10. International Use and Data Transfers
+Nuveda AI is based in the United States. If you access the Services from outside the United States, your information may be transferred to, stored in, and processed in the United States or other jurisdictions where we or our service providers operate.
+Those jurisdictions may not provide the same level of data protection as your home country. Where required by law, Nuveda AI will take steps intended to support lawful transfer mechanisms.
+11. Legal Bases for Processing
+Where applicable law requires a legal basis for processing personal information, Nuveda AI may process such information on one or more of the following bases:
+performance of a contract;
+compliance with a legal obligation;
+legitimate interests, where those interests are not overridden by your rights;
+your consent, where required; and
+the establishment, exercise, or defense of legal claims.
+
+12. Your Privacy Rights
+Depending on your jurisdiction, you may have certain rights regarding your personal information, which may include the right to:
+request access to personal information we hold about you;
+request correction of inaccurate personal information;
+request deletion of personal information;
+request a portable copy of certain data;
+object to or restrict certain processing;
+withdraw consent where processing is based on consent; and
+opt out of certain forms of targeted advertising or similar disclosures where applicable.
+
+We may need to verify your identity before fulfilling certain requests. In some cases, we may deny or limit a request where permitted by law.
+To submit a privacy request, contact: privacy@nuvedaai.com
+13. Marketing Communications
+If you receive marketing communications from Nuveda AI, you may opt out at any time by using the unsubscribe link in the message or by contacting us directly.
+Even if you opt out of marketing communications, we may still send you service-related, billing, security, or other transactional communications where necessary.
+14. Children’s Privacy
+Nuveda AI is intended for adults only. Our Services are not directed to individuals under 18, and we do not knowingly collect personal information from anyone under the age of 18.
+If you believe that a minor has provided personal information to Nuveda AI, please contact us so we can review the issue and take appropriate action.
+15. Third-Party Services and Links
+The Services may contain links to, integrations with, or embedded functionality from third-party services or platforms. Nuveda AI is not responsible for the privacy practices of those third parties. We encourage you to review their privacy policies before interacting with them.
+16. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our Services, practices, or legal obligations. When we do, we will revise the Effective Date at the top of this page.
+Your continued use of the Services after an updated Privacy Policy becomes effective constitutes your acknowledgment of the revised policy to the extent permitted by law.
+17. Contact Us
+If you have questions, requests, or concerns about this Privacy Policy or our privacy practices, please contact: privacy@nuvedaai.com

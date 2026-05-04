@@ -1,0 +1,199 @@
+Terms of Use
+Effective Date: April 20, 2026
+These Terms of Use (“Terms”) are a legally binding agreement between Nuveda AI LLC (“Nuveda AI,” “we,” “us,” or “our”) and you, and they govern your access to and use of our website, applications, APIs, hosted tools, dashboards, content, workflows, and related services (collectively, the “Services”).
+By accessing or using the Services, creating an account, clicking to accept, submitting an order form, or otherwise indicating your agreement, you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the Services.
+If a separate master services agreement, enterprise agreement, order form, reseller agreement, or other signed agreement applies to your use of the Services, that agreement will control to the extent of any conflict with these Terms.
+1. Eligibility
+You must be at least eighteen (18) years old, or the age of legal majority in your jurisdiction, to use the Services.
+If you access or use the Services on behalf of a company, agency, brand, institution, or other organization, you represent and warrant that you have the authority to bind that organization to these Terms.
+You may not use the Services if you are prohibited from doing so under applicable law, including U.S. export control or sanctions laws, or if your use would cause Nuveda AI or its providers to violate applicable law or contractual restrictions.
+2. The Services
+Nuveda AI provides artificial intelligence software, tools, workflows, automations, and related digital services for creators, professionals, businesses, agencies, and brands.
+The Services may include, without limitation:
+text generation and writing assistance;
+image generation, editing, enhancement, and upscaling;
+video generation, editing, enhancement, and motion-based tools;
+audio and music generation;
+voice generation, voice transformation, and voice cloning features where offered;
+caption assistance;
+avatar and synthetic media tools;
+automation, agents, and workflow features;
+integrations and APIs;
+enterprise, branded, and white-label offerings; and
+related current or future Nuveda AI features.
+
+We may add, remove, update, improve, suspend, restrict, or discontinue any part of the Services at any time. Some features may depend on third-party providers, capacity limits, geographic availability, safety controls, or eligibility requirements.
+3. Third-Party Providers
+Certain parts of the Services may be powered by or integrated with third-party model providers, cloud hosts, infrastructure partners, payment processors, analytics providers, communications vendors, moderation tools, security vendors, and other service providers (“Third-Party Providers”).
+To operate the Services, Nuveda AI may transmit, route, store, process, transform, or display your Inputs, Outputs, account data, usage data, support data, and related information through such providers as reasonably necessary to provide, secure, support, or improve the Services.
+Nuveda AI is not responsible for outages, interruptions, delays, deprecations, availability changes, filtering changes, pricing changes, or other service impacts caused by Third-Party Providers. We may replace providers, change models, change integrations, impose usage limits, or retire dependent features without liability.
+Some features may be subject to additional provider-specific terms, restrictions, or pass-through obligations that we disclose through the Services, an order form, or service-specific terms.
+4. Account Registration and Security
+You may be required to create an account to access certain Services. You agree to provide accurate, current, and complete information and to keep it updated.
+You are responsible for safeguarding your credentials and for all activity that occurs under your account, including activity by employees, contractors, agents, workspace members, seats, subaccounts, or API keys associated with your account.
+If your account is created using an organization-owned email domain, or if an organization purchases the Services on your behalf, that organization may control the account or workspace, including access, billing, administrative settings, and content management, subject to applicable law and any separate agreement.
+You must promptly notify us of any unauthorized access, suspected misuse, or loss of account credentials.
+5. Privacy and Related Policies
+Your use of the Services is also subject to our Privacy Policy, which explains how we collect, use, disclose, and protect personal information.
+Nuveda AI may also publish or update related policies, notices, and service-specific terms, including a Prohibited Use Policy, Safety Policy, DMCA or Intellectual Property Complaint Policy, API Terms, Enterprise Terms, Voice or Synthetic Media Terms, and Subprocessor Notice. Where applicable, those materials are incorporated into these Terms by reference.
+6. Inputs, Outputs, Ownership, and License
+You may submit prompts, text, files, images, audio, video, data, metadata, instructions, settings, parameters, workflows, and other materials to the Services (“Inputs”). The Services may generate or return text, images, audio, video, captions, analyses, recommendations, workflows, avatars, music, or other materials based on your Inputs (“Outputs”).
+As between you and Nuveda AI, and to the extent permitted by applicable law, you retain ownership of your Inputs and own the Outputs generated for you by the Services.
+Because artificial intelligence systems may produce similar results for similar requests, Outputs may not be unique. The Services may generate the same or similar Outputs for Nuveda AI, for other users, or in response to similar prompts or instructions. Nuveda AI does not guarantee that any Output will be unique, exclusive, error-free, non-infringing, merchantable, fit for a particular purpose, or protectable under intellectual property law.
+You are solely responsible for your Inputs, for ensuring you have all rights, permissions, consents, releases, and lawful bases necessary to submit them, and for reviewing any Outputs before relying on, publishing, using, selling, distributing, or acting on them.
+You grant Nuveda AI LLC a limited, non-exclusive, worldwide, royalty-free license to host, store, reproduce, process, modify, display, transmit, and use your Inputs and Outputs solely as reasonably necessary to:
+provide and operate the Services;
+generate Outputs;
+maintain platform functionality;
+support and troubleshoot the Services;
+monitor reliability and performance;
+secure the Services;
+detect abuse, fraud, or policy violations;
+enforce these Terms and related policies; and
+comply with applicable law and legal process.
+
+This limited license does not transfer ownership of your Inputs or Outputs to Nuveda AI.
+7. Customer Content and Model Training
+Nuveda AI does not use your Inputs, Outputs, prompts, uploaded files, or other customer content to train or improve Nuveda AI’s own general-purpose artificial intelligence or machine learning models.
+Where the Services rely on Third-Party Providers, your content may be processed by those providers as reasonably necessary to deliver requested features, operate the platform, support the Services, secure the platform, troubleshoot issues, or comply with applicable law.
+Nuveda AI seeks to use provider relationships, technical settings, and contractual controls that are consistent with Nuveda AI’s no-training-on-customer-content posture for its own services. If a feature relies on materially different data handling rules, Nuveda AI may disclose that difference through service-specific terms, product notices, or the Privacy Policy.
+8. Your Responsibilities
+You represent, warrant, and covenant that:
+you own or control the necessary rights in your Inputs and have obtained all required authorizations, permissions, releases, and consents;
+your use of the Services, Inputs, and Outputs will not violate applicable law, regulation, sanctions restriction, or third-party rights;
+you will not present generated content as verified human-created fact where doing so would be misleading; and
+you will use appropriate human review before using Outputs in sensitive or high-impact contexts.
+
+You are responsible for configuring your account, workflows, moderation settings, permissions, and downstream usage in a manner appropriate to your use case.
+If you provide outputs or services to customers, clients, viewers, users, or audiences through your own product, website, application, or business workflow, you are responsible for your downstream notices, disclosures, rights clearances, terms, and compliance obligations.
+9. Acceptable Use
+You may not, and may not permit any other person to, use the Services to:
+violate any applicable law or regulation;
+infringe, misappropriate, or violate intellectual property, privacy, publicity, confidentiality, contract, or other rights;
+generate or distribute malware, phishing materials, credential theft tools, or harmful code;
+interfere with or disrupt the Services;
+bypass safety systems, rate limits, security protections, or access controls;
+scrape or systematically extract data from the Services except as expressly permitted;
+reverse engineer, decompile, disassemble, or attempt to discover source code, model weights, hidden prompts, or system architecture except to the extent such restrictions are prohibited by law; or
+use the Services to build or improve a competing service in violation of these Terms.
+
+You also may not use the Services to generate, distribute, facilitate, or promote unlawful, deceptive, exploitative, fraudulent, abusive, hateful, harassing, invasive, defamatory, non-consensual, or otherwise harmful content or conduct.
+Nuveda AI may supplement these rules through a separate Prohibited Use Policy or product-specific safety rules.
+10. Synthetic Media, Voice, Likeness, and Consent
+If the Services include voice generation, voice cloning, voice transformation, avatar creation, face or likeness simulation, style transfer, image or video editing, motion control, or other synthetic media tools, you represent and warrant that you have obtained all rights, consents, releases, and lawful bases required for the submission, processing, generation, transformation, and commercial or public use of the relevant voice, face, likeness, biometric, or identity-linked material.
+You may not use the Services to:
+impersonate any person in a misleading, fraudulent, defamatory, or unauthorized manner;
+create deceptive or non-consensual deepfakes;
+create or distribute non-consensual sexually explicit synthetic content;
+unlawfully collect, infer, use, or exploit biometric information; or
+violate publicity, privacy, labor, consumer protection, or data protection laws.
+
+Nuveda AI may require proof of consent, ownership, authorization, or lawful use at any time and may suspend access, remove content, or take other enforcement action where rights, consent, impersonation, or safety concerns exist.
+11. Restricted and High-Risk Uses
+Unless Nuveda AI expressly authorizes such use in writing and applicable law is satisfied, the Services may not be used as the sole basis for:
+medical diagnosis or treatment;
+emergency response;
+legal advice;
+hiring or employment screening;
+credit, lending, or insurance decisions;
+housing decisions;
+public-sector eligibility decisions;
+weapons development;
+critical infrastructure control;
+live law-enforcement identification;
+unlawful surveillance; or
+other safety-critical or high-risk activities where an error could foreseeably cause serious harm.
+
+Any use of the Services in regulated, high-risk, or rights-impacting contexts must include appropriate human oversight, expert review, and all legally required notices, approvals, and controls.
+12. Business, Enterprise, and White-Label Use
+If you use the Services as a business customer, enterprise customer, reseller, integrator, agency, or white-label provider, you remain responsible for your employees, contractors, affiliates, downstream customers, end users, and any implementation or redistribution of the Services.
+You must maintain terms, disclosures, safeguards, and controls appropriate to your own use case and ensure that your downstream use of the Services complies with these Terms and applicable law.
+Nuveda AI may require separate enterprise terms, a data processing addendum, order form, or reseller agreement for certain deployments, volumes, or branded implementations. Unless expressly agreed in writing, no resale, sublicensing, or white-label use is permitted.
+13. Fees, Subscriptions, Credits, and Taxes
+Some Services are offered on a paid basis. By purchasing or using paid Services, you agree to pay all applicable fees, subscription charges, usage-based charges, taxes, and other amounts described in the Services, on an order form, or on an invoice.
+Unless otherwise stated, fees are quoted in U.S. dollars and are non-refundable.
+Subscriptions may renew automatically until canceled. Usage-based features may be billed based on seats, requests, credits, tokens, characters, minutes, storage, bandwidth, API calls, or other published usage metrics.
+Nuveda AI may suspend, limit, downgrade, or terminate Services for nonpayment, exceeded limits, credit exposure, or materially overdue amounts.
+If Nuveda AI offers prepaid credits, promotional credits, or balances, those items are not bank accounts, stored-value accounts, deposits, or legal tender; they have no cash value except as required by law; and they may expire or be revoked in accordance with applicable program terms.
+You are responsible for all sales, use, value-added, withholding, and similar taxes, except taxes based on Nuveda AI’s net income.
+14. Beta Features and Free Access
+Nuveda AI may offer free trials, previews, pilot programs, beta tools, early access, or experimental features (“Beta Features”).
+Beta Features are provided on an “as is” and “as available” basis, may contain errors or unexpected results, may be subject to reduced security or support, and may be modified, suspended, or discontinued at any time without liability.
+Nuveda AI may limit eligibility, revoke access, or require separate terms for Beta Features. Beta Features may be excluded from warranties, service levels, indemnities, or support commitments that otherwise apply to generally available Services.
+15. Security and Abuse Monitoring
+Nuveda AI uses administrative, technical, and organizational measures designed to protect the Services and data within our control. However, no system is perfectly secure, and you acknowledge that use of the Services involves inherent risks.
+Nuveda AI may monitor usage, prompts, uploaded content, generated content, metadata, logs, and support interactions to detect abuse, enforce safety rules, investigate policy violations, prevent fraud, maintain service integrity, and comply with legal obligations.
+Where permitted by law, Nuveda AI may remove content, block outputs, throttle requests, quarantine accounts, preserve evidence, or report conduct to affected parties, rights holders, payment providers, or authorities.
+16. Intellectual Property in the Services
+The Services, including software, code, interfaces, workflows, documentation, branding, trade names, logos, design elements, and all related intellectual property other than your Inputs and Outputs, are owned by or licensed to Nuveda AI LLC and are protected by intellectual property and other laws.
+Except as expressly permitted by these Terms or mandatory law, you may not copy, reproduce, modify, create derivative works from, distribute, lease, sell, resell, frame, mirror, decompile, disassemble, reverse engineer, or otherwise exploit the Services or any portion of them.
+No license is granted except as expressly stated in these Terms.
+17. Feedback
+If you provide Nuveda AI with ideas, comments, suggestions, enhancement requests, ratings, bug reports, testimonials, or other feedback, you grant Nuveda AI LLC a non-exclusive, worldwide, perpetual, irrevocable, transferable, sublicensable, royalty-free license to use, reproduce, adapt, publish, distribute, and otherwise exploit that feedback for any lawful purpose without compensation or attribution to you.
+Nuveda AI will not publicly identify you as the source of feedback without your permission unless you have already made that feedback public yourself.
+18. Intellectual Property Complaints
+If you believe material available through the Services infringes your copyright, trademark, publicity rights, or other intellectual property rights, you may submit a complaint to Nuveda AI using the contact information below.
+Where applicable, Nuveda AI may remove or disable access to allegedly infringing material, notify the affected user, maintain repeat-infringer processes, and take related enforcement action consistent with applicable law and platform policy.
+19. Marketing Communications
+If you sign up for newsletters, updates, or promotional communications, you consent to receive those communications subject to applicable law. You may unsubscribe from marketing emails using the unsubscribe link in the message.
+Nuveda AI may still send transactional, billing, administrative, security, legal, or account-related notices even if you opt out of marketing messages.
+If you use the Services to create or distribute outreach, campaigns, or marketing materials, you are responsible for obtaining any required consents and honoring applicable opt-out and compliance obligations.
+20. Export Controls and Sanctions
+You may not use, export, re-export, transfer, or make available the Services or any Outputs in violation of applicable U.S. export control, sanctions, anti-boycott, or similar laws.
+You represent and warrant that you are not located in, organized in, ordinarily resident in, or controlled by a party in a country or region subject to applicable comprehensive U.S. embargoes relevant to the Services, and that you are not listed on any applicable restricted-party list.
+Nuveda AI may screen accounts and transactions and may suspend or terminate access if trade compliance concerns arise.
+21. International Use
+Nuveda AI is based in the United States. By using the Services, you understand that your information may be collected, transferred, stored, and processed in the United States and in other countries where Nuveda AI or its Third-Party Providers operate.
+If you access the Services from outside the United States, you do so at your own initiative and are responsible for complying with any local laws that apply to you.
+Nothing in these Terms is intended to limit any non-waivable rights you may have under applicable consumer or data protection law.
+22. Suspension and Termination
+Nuveda AI may, with or without notice, suspend, restrict, block, remove, or terminate your access to some or all of the Services if:
+you violate these Terms or related policies;
+we suspect fraud, abuse, unauthorized access, nonpayment, illegal activity, or security threats;
+we are required to do so by law, court order, regulator, or provider requirement;
+continued service would create unacceptable operational, legal, security, or reputational risk; or
+we discontinue the relevant Service.
+
+You may stop using the Services at any time and may cancel subscriptions using the applicable cancellation flow or as otherwise provided in an order form.
+Upon termination, your right to access the Services ends immediately. Provisions that by their nature should survive termination will remain in effect, including provisions relating to ownership, licenses, fees, disclaimers, limitations of liability, indemnification, dispute resolution, and compliance.
+23. Disclaimers
+THE SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NUVEDA AI LLC DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AVAILABILITY, SECURITY, SATISFACTORY QUALITY, AND ERROR-FREE OPERATION.
+AI-GENERATED OR AUTOMATED OUTPUTS MAY BE INACCURATE, INCOMPLETE, MISLEADING, BIASED, OFFENSIVE, OR UNSUITABLE FOR YOUR INTENDED USE. NUVEDA AI DOES NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, THAT CONTENT OR OUTPUTS WILL BE RETAINED OR RECOVERABLE, OR THAT ANY OUTPUT WILL BE LAWFUL, SAFE, UNIQUE, OR NON-INFRINGING.
+24. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NUVEDA AI LLC AND ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, CONTRACTORS, LICENSORS, SERVICE PROVIDERS, AND PARTNERS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, GOODWILL, REPUTATION, BUSINESS OPPORTUNITY, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO THE SERVICES OR THESE TERMS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE TOTAL AGGREGATE LIABILITY OF NUVEDA AI LLC FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE SERVICES OR THESE TERMS WILL NOT EXCEED THE GREATER OF:
+THE AMOUNT YOU PAID TO NUVEDA AI LLC FOR THE APPLICABLE SERVICES DURING THE TWELVE (12) MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM; OR
+ONE HUNDRED U.S. DOLLARS (US $100).
+
+Some jurisdictions do not allow certain limitations or exclusions, so portions of this section may not apply to you.
+25. Indemnification
+You agree to defend, indemnify, and hold harmless Nuveda AI LLC and its affiliates, officers, directors, employees, contractors, licensors, service providers, and partners from and against any claims, demands, actions, proceedings, damages, judgments, settlements, penalties, fines, liabilities, losses, costs, and expenses, including reasonable attorneys’ fees, arising out of or relating to:
+your Inputs;
+your Outputs or your use of Outputs;
+your use of the Services;
+your violation of these Terms, any policy, or applicable law;
+your infringement, misappropriation, or violation of any third-party right; or
+your downstream product, enterprise, reseller, or white-label activities.
+
+26. Dispute Resolution, Arbitration, and Class Action Waiver
+PLEASE READ THIS SECTION CAREFULLY.
+Except for disputes eligible for small claims court, claims seeking injunctive relief for intellectual property misuse, or matters that applicable law does not permit to be arbitrated, you and Nuveda AI agree that any dispute, claim, or controversy arising out of or relating to the Services or these Terms will be resolved by final and binding arbitration under the Federal Arbitration Act.
+Unless otherwise required by law or mutually agreed, arbitration will be administered by the American Arbitration Association (“AAA”) under its applicable rules. The arbitration will be conducted in English and may occur by videoconference, on written submissions, or, if necessary, in Mecklenburg County, North Carolina.
+The arbitrator may award only individual relief permitted by law and may not conduct class, consolidated, representative, mass, or private-attorney-general proceedings except where applicable law requires otherwise.
+YOU AND NUVEDA AI EACH WAIVE THE RIGHT TO A JURY TRIAL AND TO PARTICIPATE IN A CLASS ACTION, MASS ACTION, OR REPRESENTATIVE ACTION, EXCEPT TO THE EXTENT SUCH WAIVER IS PROHIBITED BY LAW.
+If any portion of this section is found unenforceable as to a particular claim, that claim shall proceed in court, and the remainder of this section shall remain enforceable to the fullest extent permitted by law.
+27. Governing Law and Venue
+These Terms are governed by the laws of the State of North Carolina and the laws of the United States, without regard to conflict-of-laws principles.
+To the extent a claim may be brought in court rather than arbitration, exclusive venue will lie in the state or federal courts located in Mecklenburg County, North Carolina, and each party consents to personal jurisdiction there, except where mandatory local law requires otherwise.
+28. Changes to These Terms
+Nuveda AI may update these Terms from time to time. If we make material changes, we may provide reasonable notice, such as by posting the updated Terms with a revised effective date or by notifying account holders through the Services or by email.
+Your continued use of the Services after updated Terms take effect constitutes your acceptance of the revised Terms, except where applicable law requires additional consent.
+29. Miscellaneous
+These Terms, together with any incorporated policies, service-specific terms, and order forms, constitute the entire agreement between you and Nuveda AI LLC regarding the Services unless a separate written agreement expressly supersedes them.
+If any provision of these Terms is held invalid or unenforceable, the remaining provisions will remain in full force and effect to the fullest extent permitted by law.
+You may not assign or transfer these Terms without Nuveda AI’s prior written consent. Nuveda AI may assign these Terms in connection with a merger, acquisition, financing, restructuring, sale of assets, or operation of law.
+Any failure by Nuveda AI to enforce a provision of these Terms will not operate as a waiver of that provision.
+Section headings are for convenience only and do not affect interpretation.
+30. Contact Information
+If you have questions about these Terms, need to send a legal notice, or wish to submit a policy, copyright, trademark, or other rights complaint, contact: legal@nuvedaai.com

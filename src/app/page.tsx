@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Logo from "@/components/Logo";
 import IconMark from "@/components/IconMark";
 import EmailForm from "@/components/EmailForm";
@@ -22,13 +23,37 @@ export default function Home() {
       </div>
 
       {/* Header */}
-      <header className="relative z-10 flex shrink-0 items-center justify-between px-6 pt-5 md:px-10 md:pt-6 lg:px-14 lg:pt-8 animate-fade-up">
-        <Logo className="w-28 md:w-36" />
-        <div className="flex items-center gap-2.5">
-          <span className="inline-block h-2 w-2 rounded-full bg-brand-accent animate-pulse-dot" />
-          <span className="font-body text-xs font-medium uppercase tracking-[0.2em] text-brand-muted">
-            In development
-          </span>
+      <header className="relative z-10 flex shrink-0 items-center justify-between gap-4 px-6 pt-5 md:px-10 md:pt-6 lg:px-14 lg:pt-8 animate-fade-up">
+        <Link href="/" className="outline-offset-4 transition-opacity hover:opacity-90 shrink-0">
+          <Logo className="w-28 md:w-36" />
+        </Link>
+        <div className="flex min-w-0 flex-1 items-center justify-end gap-4 sm:gap-6">
+          <nav
+            className="flex min-w-0 items-center gap-2.5 font-body text-[0.65rem] font-medium uppercase tracking-[0.18em] text-brand-dim sm:gap-3 sm:text-[0.7rem]"
+            aria-label="Legal"
+          >
+            <Link
+              href="/terms"
+              className="transition-colors hover:text-brand-mid whitespace-nowrap"
+            >
+              Terms
+            </Link>
+            <span className="text-brand-dim/45 select-none" aria-hidden>
+              ·
+            </span>
+            <Link
+              href="/privacy"
+              className="transition-colors hover:text-brand-mid whitespace-nowrap"
+            >
+              Privacy
+            </Link>
+          </nav>
+          <div className="flex shrink-0 items-center gap-2.5">
+            <span className="inline-block h-2 w-2 rounded-full bg-brand-accent animate-pulse-dot" />
+            <span className="font-body text-xs font-medium uppercase tracking-[0.2em] text-brand-muted">
+              In development
+            </span>
+          </div>
         </div>
       </header>
 
@@ -88,15 +113,33 @@ export default function Home() {
 
       {/* Footer */}
       <footer
-        className="relative z-10 flex shrink-0 items-center justify-between px-6 pb-5 md:px-10 md:pb-6 lg:px-14 animate-fade-up"
+        className="relative z-10 flex shrink-0 flex-col gap-3 px-6 pb-5 md:flex-row md:items-center md:justify-between md:px-10 md:pb-6 lg:px-14 animate-fade-up"
         style={{ animationDelay: "0.65s" }}
       >
         <p className="font-body text-xs font-light text-brand-dim">
           &copy; {new Date().getFullYear()} NuvedaAI. All rights reserved.
         </p>
-        <span className="font-body text-xs font-light text-brand-dim">
-          nuvedaai.com
-        </span>
+        <div className="flex flex-wrap items-center justify-end gap-x-4 gap-y-2 font-body text-xs font-light">
+          <Link
+            href="/terms"
+            className="text-brand-dim transition-colors hover:text-brand-mid"
+          >
+            Terms of Use
+          </Link>
+          <span className="text-brand-dim/50" aria-hidden>
+            ·
+          </span>
+          <Link
+            href="/privacy"
+            className="text-brand-dim transition-colors hover:text-brand-mid"
+          >
+            Privacy Policy
+          </Link>
+          <span className="text-brand-dim/50" aria-hidden>
+            ·
+          </span>
+          <span className="text-brand-dim">nuvedaai.com</span>
+        </div>
       </footer>
     </div>
   );
