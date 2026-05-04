@@ -1,11 +1,11 @@
 import Link from "next/link";
-import Logo from "@/components/Logo";
-import IconMark from "@/components/IconMark";
-import EmailForm from "@/components/EmailForm";
+import Logo from "@/components/logo";
+import IconMark from "@/components/icon-mark";
+import EmailForm from "@/components/email-form";
 
 export default function Home() {
   return (
-    <div className="grain relative flex flex-col min-h-screen bg-brand-darker">
+    <div className="grain relative flex min-h-screen flex-col overflow-x-clip bg-brand-darker">
       {/* Hero background GIF */}
       <div className="pointer-events-none absolute inset-0 z-0">
         <img
@@ -18,68 +18,87 @@ export default function Home() {
       </div>
 
       {/* Decorative icon mark */}
-      <div className="pointer-events-none absolute -right-[5vw] top-1/2 -translate-y-[45%] w-[65vw] max-w-180 md:w-[50vw] animate-breathe">
+      <div className="pointer-events-none absolute -right-[8vw] top-1/2 w-[min(72vw,20rem)] max-w-[min(20rem,90%)] -translate-y-[45%] sm:-right-[5vw] sm:w-[65vw] sm:max-w-180 md:w-[50vw] animate-breathe">
         <IconMark className="h-full w-full opacity-40 drop-shadow-[0_0_120px_rgba(111,47,255,0.15)]" />
       </div>
 
       {/* Header */}
-      <header className="relative z-10 flex shrink-0 items-center justify-between gap-4 px-6 pt-5 md:px-10 md:pt-6 lg:px-14 lg:pt-8 animate-fade-up">
-        <Link href="/" className="outline-offset-4 transition-opacity hover:opacity-90 shrink-0">
-          <Logo className="w-28 md:w-36" />
-        </Link>
-        <div className="flex min-w-0 flex-1 items-center justify-end gap-4 sm:gap-6">
-          <nav
-            className="flex min-w-0 items-center gap-2.5 font-body text-[0.65rem] font-medium uppercase tracking-[0.18em] text-brand-dim sm:gap-3 sm:text-[0.7rem]"
-            aria-label="Legal"
+      <header className="relative z-10 w-full min-w-0 shrink-0 px-4 pt-4 sm:px-6 sm:pt-5 md:px-10 md:pt-6 lg:px-14 lg:pt-8 animate-fade-up">
+        <div className="flex w-full min-w-0 flex-wrap items-center justify-between gap-x-3 gap-y-3">
+          <Link
+            href="/"
+            className="inline-flex shrink-0 outline-offset-4 transition-opacity hover:opacity-90"
           >
-            <Link
-              href="/terms"
-              className="transition-colors hover:text-brand-mid whitespace-nowrap"
+            <Logo className="h-auto w-[6.75rem] sm:w-28 md:w-36" />
+          </Link>
+
+          <div className="flex w-full min-w-0 flex-[1_0_100%] flex-wrap items-center justify-between gap-x-3 gap-y-2 sm:flex-initial sm:basis-auto sm:w-auto sm:justify-end sm:gap-4 md:gap-6">
+            <nav
+              className="flex min-w-0 flex-wrap items-center gap-x-1.5 gap-y-1 font-body text-[0.6rem] font-medium uppercase tracking-[0.1em] text-brand-dim sm:gap-x-2 sm:text-[0.65rem] sm:tracking-[0.16em] md:text-[0.7rem] md:tracking-[0.18em]"
+              aria-label="Legal"
             >
-              Terms
-            </Link>
-            <span className="text-brand-dim/45 select-none" aria-hidden>
-              ·
-            </span>
-            <Link
-              href="/privacy"
-              className="transition-colors hover:text-brand-mid whitespace-nowrap"
+              <Link
+                href="/terms"
+                className="rounded-sm py-0.5 transition-colors hover:text-brand-mid"
+              >
+                Terms
+              </Link>
+              <span className="shrink-0 text-brand-dim/45 select-none" aria-hidden>
+                ·
+              </span>
+              <Link
+                href="/privacy"
+                className="rounded-sm py-0.5 transition-colors hover:text-brand-mid"
+              >
+                Privacy
+              </Link>
+            </nav>
+
+            <div
+              className="flex shrink-0 items-center gap-2 sm:gap-2.5"
+              role="status"
+              aria-label="In development"
             >
-              Privacy
-            </Link>
-          </nav>
-          <div className="flex shrink-0 items-center gap-2.5">
-            <span className="inline-block h-2 w-2 rounded-full bg-brand-accent animate-pulse-dot" />
-            <span className="font-body text-xs font-medium uppercase tracking-[0.2em] text-brand-muted">
-              In development
-            </span>
+              <span className="inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-brand-accent animate-pulse-dot sm:h-2 sm:w-2" aria-hidden />
+              <span
+                className="hidden font-body text-xs font-medium uppercase tracking-[0.18em] text-brand-muted sm:inline sm:tracking-[0.2em]"
+              >
+                In development
+              </span>
+              <span
+                className="font-body text-[0.62rem] font-medium uppercase tracking-[0.12em] text-brand-muted sm:hidden"
+                aria-hidden
+              >
+                Dev
+              </span>
+            </div>
           </div>
         </div>
       </header>
 
       {/* Accent line */}
       <div
-        className="glow-line relative z-10 mx-6 mt-4 shrink-0 md:mx-10 md:mt-5 lg:mx-14 animate-fade-up opacity-40"
+        className="glow-line relative z-10 mx-4 mt-4 shrink-0 sm:mx-6 md:mx-10 md:mt-5 lg:mx-14 animate-fade-up opacity-40"
         style={{ animationDelay: "0.05s" }}
       />
 
       {/* Main content */}
-      <main className="relative z-10 flex min-h-0 flex-1 flex-col justify-center px-6 py-6 md:px-10 md:py-8 lg:px-14 xl:px-20">
-        <div className="max-w-3xl">
+      <main className="relative z-10 flex min-h-0 flex-1 flex-col justify-center px-4 py-8 sm:px-6 sm:py-8 md:px-10 md:py-10 lg:px-14 xl:px-20">
+        <div className="w-full max-w-3xl min-w-0">
           {/* Eyebrow */}
           <div
-            className="animate-fade-up mb-4 flex items-center gap-4 md:mb-6"
+            className="animate-fade-up mb-4 flex flex-wrap items-center gap-3 md:mb-6"
             style={{ animationDelay: "0.1s" }}
           >
-            <span className="font-body text-[0.7rem] font-semibold uppercase tracking-[0.3em] text-brand-mid">
+            <span className="font-body text-[0.65rem] font-semibold uppercase tracking-[0.25em] text-brand-mid sm:text-[0.7rem] sm:tracking-[0.3em]">
               Coming soon
             </span>
-            <span className="h-px w-12 bg-brand-mid/40" />
+            <span className="hidden h-px w-10 min-[340px]:block sm:w-12 bg-brand-mid/40" />
           </div>
 
           {/* Headline */}
           <h1
-            className="animate-fade-up font-display text-3xl font-bold leading-[1.08] tracking-tight text-brand-text sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl"
+            className="animate-fade-up font-display text-[clamp(1.5rem,4.2vw+0.5rem,4.5rem)] font-bold leading-[1.08] tracking-tight text-balance text-brand-text"
             style={{ animationDelay: "0.2s" }}
           >
             A new standard
@@ -113,7 +132,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer
-        className="relative z-10 flex shrink-0 flex-col gap-3 px-6 pb-5 md:flex-row md:items-center md:justify-between md:px-10 md:pb-6 lg:px-14 animate-fade-up"
+        className="relative z-10 flex shrink-0 flex-col gap-3 px-4 pb-[max(1.25rem,env(safe-area-inset-bottom,0px))] sm:px-6 md:flex-row md:items-center md:justify-between md:px-10 md:pb-6 lg:px-14 animate-fade-up"
         style={{ animationDelay: "0.65s" }}
       >
         <p className="font-body text-xs font-light text-brand-dim">

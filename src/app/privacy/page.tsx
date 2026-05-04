@@ -1,7 +1,7 @@
 import { readFileSync } from "fs";
 import path from "path";
 import type { Metadata } from "next";
-import LegalPage from "@/components/LegalPage";
+import LegalPage from "@/components/legal-page";
 import { parseLegalDocument } from "@/lib/parse-legal-doc";
 
 export const metadata: Metadata = {

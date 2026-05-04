@@ -254,6 +254,11 @@ input::placeholder {
 }
 
 html {
+  overflow-x: clip;
   scrollbar-width: thin;
   scrollbar-color: #3d2e5c #0a0612;
+}
+
+body {
+  overflow-x: clip;
 }

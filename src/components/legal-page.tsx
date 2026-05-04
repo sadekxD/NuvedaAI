@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Logo from "@/components/Logo";
+import Logo from "@/components/logo";
 import type { ParsedLegalDocument } from "@/lib/parse-legal-doc";
 
 type Props = {
@@ -10,29 +10,29 @@ export default function LegalPage({ doc }: Props) {
   const introParagraphs = doc.intro.split(/\n\n+/).map((p) => p.trim()).filter(Boolean);
 
   return (
-    <div className="grain relative flex min-h-screen flex-col bg-brand-darker">
+    <div className="grain relative flex min-h-screen flex-col overflow-x-clip bg-brand-darker">
       <div className="pointer-events-none absolute inset-0 z-0 opacity-20">
         <div className="absolute inset-0 bg-linear-to-b from-brand-darker/80 via-transparent to-brand-darker" />
       </div>
 
-      <header className="relative z-10 flex shrink-0 items-center justify-between px-6 pt-5 md:px-10 md:pt-6 lg:px-14 lg:pt-8">
-        <Link href="/" className="outline-offset-4 transition-opacity hover:opacity-90">
-          <Logo className="w-28 md:w-36" />
+      <header className="relative z-10 flex min-w-0 shrink-0 items-center justify-between gap-3 px-4 pt-4 sm:px-6 sm:pt-5 md:px-10 md:pt-6 lg:px-14 lg:pt-8">
+        <Link href="/" className="inline-flex min-w-0 shrink-0 outline-offset-4 transition-opacity hover:opacity-90">
+          <Logo className="h-auto w-[6.75rem] shrink-0 sm:w-28 md:w-36" />
         </Link>
         <Link
           href="/"
-          className="font-body text-xs font-medium uppercase tracking-[0.2em] text-brand-muted transition-colors hover:text-brand-mid"
+          className="shrink-0 font-body text-xs font-medium uppercase tracking-[0.15em] text-brand-muted transition-colors hover:text-brand-mid sm:tracking-[0.2em]"
         >
           Back
         </Link>
       </header>
 
       <div
-        className="glow-line relative z-10 mx-6 mt-4 shrink-0 md:mx-10 md:mt-5 lg:mx-14 opacity-40"
+        className="glow-line relative z-10 mx-4 mt-4 shrink-0 sm:mx-6 md:mx-10 md:mt-5 lg:mx-14 opacity-40"
         aria-hidden
       />
 
-      <main className="relative z-10 mx-auto w-full max-w-3xl flex-1 px-6 py-8 md:px-10 md:py-10 lg:px-14 lg:pb-16">
+      <main className="relative z-10 mx-auto w-full min-w-0 max-w-3xl flex-1 px-4 py-8 sm:px-6 sm:py-10 md:px-10 md:py-10 lg:px-14 lg:pb-16">
         <article
           className={[
             "prose prose-invert max-w-none font-body",
@@ -71,7 +71,7 @@ export default function LegalPage({ doc }: Props) {
         </article>
       </main>
 
-      <footer className="relative z-10 flex shrink-0 flex-col gap-3 border-t border-brand-dim/40 px-6 py-5 md:flex-row md:items-center md:justify-between md:px-10 md:py-6 lg:px-14">
+      <footer className="relative z-10 flex shrink-0 flex-col gap-3 border-t border-brand-dim/40 px-4 py-5 pb-[max(1.25rem,env(safe-area-inset-bottom,0px))] sm:px-6 md:flex-row md:items-center md:justify-between md:px-10 md:py-6 lg:px-14">
         <p className="font-body text-xs font-light text-brand-dim">
           &copy; {new Date().getFullYear()} NuvedaAI. All rights reserved.
         </p>

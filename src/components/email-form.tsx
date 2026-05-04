@@ -159,7 +159,7 @@ export default function EmailForm() {
   }
 
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex w-full min-w-0 max-w-full flex-col gap-4">
       <form
         onSubmit={handleSubmit}
         className="group relative flex flex-col gap-3 sm:flex-row sm:gap-0"
@@ -187,7 +187,7 @@ export default function EmailForm() {
             <button
               type="submit"
               disabled={status === "loading"}
-              className="group/btn relative h-14 cursor-pointer overflow-hidden whitespace-nowrap rounded-b-[calc(1rem-1px)] bg-brand-accent px-8 font-body text-sm font-semibold tracking-wide text-white transition-all duration-300 hover:shadow-[0_0_32px_rgba(111,47,255,0.5)] active:scale-[0.98] disabled:cursor-wait sm:rounded-none sm:rounded-r-[calc(1rem-1px)]"
+              className="group/btn relative h-14 cursor-pointer overflow-hidden whitespace-nowrap rounded-b-[calc(1rem-1px)] bg-brand-accent px-5 font-body text-sm font-semibold tracking-wide text-white transition-all duration-300 hover:shadow-[0_0_32px_rgba(111,47,255,0.5)] active:scale-[0.98] disabled:cursor-wait sm:rounded-none sm:rounded-r-[calc(1rem-1px)] sm:px-8"
             >
               <span className="relative z-10">
                 {status === "loading" ? (
@@ -210,7 +210,7 @@ export default function EmailForm() {
           {errorMsg}
         </p>
       )}
-      <p className="font-body text-xs font-medium text-brand-muted">
+      <p className="max-w-lg font-body text-xs font-medium leading-snug text-brand-muted">
         Get a 25% launch discount code sent straight to your inbox!
       </p>
       <p className="font-body text-[0.7rem] font-light text-brand-dim">
